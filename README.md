@@ -1,2 +1,3 @@
-# MyProjectsCollection
-This repo contains all the projects that I remembered to write down here
+# My Projects
+# The skills I learned
+### docker
