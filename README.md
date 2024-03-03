@@ -1,14 +1,16 @@
 
 # My Projects
 These are in no particular order
--  routers for my local network
-- pihole adblock for my local network
-- a self-hosted wireguard host for my personal use
-- nginx-proxy-manager for better domain names (such as server.local)
-- a small [game engine](https://github.com/GimmeDataNow/falling_sand) modeled after the Falling Everything engine
-- a small math exercise generator for my little brother
-- some minor websites
-- my linux config
+- Routers for my local network
+- Pihole adblock for my local network
+- A self-hosted wireguard host for my personal use
+- Nginx-proxy-manager for better domain names (such as server.local)
+- A small [game engine](https://github.com/GimmeDataNow/falling_sand) modeled after the Falling Everything engine
+- A small math exercise generator for my little brother in python and c#
+- A small 4-bit binary adder/subtractor
+- Arduino diy remote controlled car
+- Some minor websites
+- My linux config
 # The skills I learned
 ### routers
 > In order to set up my WLAN for my home, I had to buy and set up my own router. Having been provided a static IP, I learned how set up my network. I first learned the different operation modes (Router | Access) and their purpose. Afterwards I was introduced into static IPs and some of the important parameters that surround it ( IP, subnet mask, default gateway, etc.).  Having entered my static IP, I was introduced to the split between WAN and (LAN + WLAN). I learned of DHCP and it's importance in a network. I configured the DHCP server with an IP address pool and reserved some IPs for some certain devices, and then bound these devices to the corresponding IP.
@@ -59,6 +61,10 @@ In short I learned about: html, css
 
 In short I learned about: python
 
+### basic c# 
+> I learned about c# after having made the simple python program that generated python scripts. I wanted to create a gui app that had the same functionality in another language. I even had the idea of selling this application (I never did though).
+
+In short I learned about: c#
 ### basic bash scripting
 > Bash scripting was and still is an absolute necessity my usage of linux
 
