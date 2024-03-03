@@ -1,5 +1,6 @@
 
 # My Projects
+These are in no particular order
 -  routers for my local network
 - pihole adblock for my local network
 - a self-hosted wireguard host for my personal use
@@ -55,3 +56,5 @@ In short I learned about: wgpu, wgsl
 In short I learned about: html, css
 ### basic bash scripting
 > Bash scripting was and still is an absolute necessity my usage of linux
+
+In short I learned about: bash
