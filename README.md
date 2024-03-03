@@ -53,6 +53,12 @@ In short I learned about: wgpu, wgsl
 > My first bits of code that I wrote were html and css.
 
 In short I learned about: html, css
+
+### python
+> I learned python in this [project](https://github.com/GimmeDataNow/MathPyArchive)
+
+In short I learned about: python
+
 ### basic bash scripting
 > Bash scripting was and still is an absolute necessity my usage of linux
 
