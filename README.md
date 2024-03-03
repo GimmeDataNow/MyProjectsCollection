@@ -1,4 +1,3 @@
-
 # My Projects
 -  routers for my local network
 - pihole adblock for my local network
@@ -23,18 +22,25 @@ In short I learned about: DNS, DNS filtering, IPv4, IPv6
 ### docker
 > I eventually became got wind of docker as an virtualization tool, which I then wanted to integrate into my setup. I first learned what exactly a docker container is and how to compose one. Following that I used it to first install a gui docker container manager (portainer). I moved my pihole install into a docker container in order to learn more about docker and its inner workings. Having ported my pihole setup I began to look out for other container programs to install (these are covered in their respective sections). 
 
-In short I learned about: virtualization, docker, docker-compose, docker-stacks and environments using portainer as my docker manager. 
+In short I learned about: virtualization, docker, docker-compose, docker-stacks and environments using portainer as my docker manager
 
 ### nginx-proxy-manager
 > Having used docker for a while to host all sorts of servers I grew tired of entering a hard to remember IP and port. I looked into getting my own local (free) domain name up and running on my local network. I found and installed nginx-proxy-manager in my docker environment. I first set up some domains (e.g. pihole.local) on my pihole and then configured my proxy manager to redirect these request to the correct port. Although I did initially attempt to set up https support, I quickly realized that that would require an external SSL service which I had no need for. I also explored some of the settings that nginx provides (such as redirection hosts). 
 
 In short I learned about: port-forwarding, http and https, ssl, proxy, reverse proxy, 404 Hosts, redirection hosts
 ### wireguard
-?
+> Afterwards I wanted to use my network setup even outside of my home and as such I had to use a VPN. I had the choice of using openVPN or wireguard. I ended up choosing wireguard because it is a newer protocol and it is easier on battery life.
+
+In short I learned about: wireguard, VPNs
+
 ### git
+> Previously I did not use git or any other form of source control. After having made a few projects I realized that source control is vital for a solid work flow. I used to simply clone a folder/directory to make any breaking changes. This made file management very difficult.
+
 source control using git
 ### rust
-rust, toml
+> I am not sure when exactly I got to know of rust but it has become my favorite coding language so far. I was searching for a fast lower level ahead-of-time-compiled language and rust happens to fit this criteria perfectly. I was previously considering using c++ for projects, although I wasn't happy with classes and inheritance. Rust boasts of many appealing attributes that any rust evangelist can preach by heart, but the most important one is the compiler and the compiler errors. I will keep using rust and will write some more about it here.
+
+In short I learned about: rust, cargo, toml
 ### webgpu / wgsl
 using wgpu
 ### css + html
