@@ -1,3 +1,4 @@
+
 # My Projects
 -  routers for my local network
 - pihole adblock for my local network
@@ -12,7 +13,7 @@
 ### routers
 > In order to set up my WLAN for my home, I had to buy and set up my own router. Having been provided a static IP, I learned how set up my network. I first learned the different operation modes (Router | Access) and their purpose. Afterwards I was introduced into static IPs and some of the important parameters that surround it ( IP, subnet mask, default gateway, etc.).  Having entered my static IP, I was introduced to the split between WAN and (LAN + WLAN). I learned of DHCP and it's importance in a network. I configured the DHCP server with an IP address pool and reserved some IPs for some certain devices, and then bound these devices to the corresponding IP.
 
-In short I learned about: WAN, LAN, IP, subnet mask, default gateway, DHCP, router operation modes, IP reservation and 
+In short I learned about: WAN, LAN, IP, subnet mask, default gateway, DHCP, router operation modes, IP reservation and IP binding
 
 ### pihole and routing
 > After having used my network for a while I came to know about local network wide adblocker (such as Pihole) that require no additional installation on the clients. I found out that Pihole acts as a local man-in-the-middle DNS server. At the time I was still quite unfamiliar with DNS servers, so this was a new and welcome exposure to networking. I initially set this up as a base application on my Raspberry Pi (but later moved to a docker container). While configuring the pihole (and setting it as the default DNS server on the DHCP server) I found out more about IPv4 and IPv6 while also learning about DNS filtering. The Pihole comes equipped with the handy feature of auto updating the filter list, given that you provide all the urls (source: [firebog](https://firebog.net/)).
@@ -41,10 +42,16 @@ source control using git
 > I am not sure when exactly I got to know of rust but it has become my favorite coding language so far. I was searching for a fast lower level ahead-of-time-compiled language and rust happens to fit this criteria perfectly. I was previously considering using c++ for projects, although I wasn't happy with classes and inheritance. Rust boasts of many appealing attributes that any rust evangelist can preach by heart, but the most important one is the compiler and the compiler errors. I will keep using rust and will write some more about it here.
 
 In short I learned about: rust, cargo, toml
+
 ### webgpu / wgsl
-using wgpu
+> Webgpu is the standard that wgpu uses. I am (as of writing this) working on a game engine and I recently decided to switch from one graphic library to my own library due to a lack of certain critical features. Although I did learn most of what I know through wgpu, webgpu and wgpu are very closely aligned. Wgsl was both the shader language for webgpu and wgpu. I personally found wgsl very tiresome and jarring to learn due to all the memory management that was needed.
+
+
+In short I learned about: wgpu, wgsl
+
 ### css + html
-for some old websites that I made
+> My first bits of code that I wrote were html and css.
+
+In short I learned about: html, css
 ### basic bash scripting
-for linux
-> hello
+> Bash scripting was and still is an absolute necessity my usage of linux
