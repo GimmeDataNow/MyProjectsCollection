@@ -5,7 +5,6 @@ These are in no particular order
 - pihole adblock for my local network
 - a self-hosted wireguard host for my personal use
 - nginx-proxy-manager for better domain names (such as server.local)
-- git for source control
 - a small [game engine](https://github.com/GimmeDataNow/falling_sand) modeled after the Falling Everything engine
 - a small math exercise generator for my little brother
 - some minor websites
