@@ -65,8 +65,15 @@ In short I learned about: python
 ### basic c# 
 > I learned about c# after having made the simple python program that generated python scripts. I wanted to create a gui app that had the same functionality in another language. I even had the idea of selling this application (I never did though).
 
+
 In short I learned about: c#
+
 ### basic bash scripting
 > Bash scripting was and still is an absolute necessity my usage of linux
 
 In short I learned about: bash
+
+### surrealdb / surrealQL
+> I am currently experimenting with surrealdb to create databases.
+
+In short I learned about: surrealdb, surrealQL, sql
