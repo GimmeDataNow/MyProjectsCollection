@@ -10,6 +10,7 @@ These are in no particular order
 - A small 4-bit binary adder/subtractor
 - Arduino diy remote controlled car
 - Some minor websites
+- a simple surrealdb database
 - My linux config
 # The skills I learned
 ### routers
