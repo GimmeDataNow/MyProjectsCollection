@@ -77,3 +77,10 @@ In short I learned about: bash
 > I am currently experimenting with surrealdb to create databases.
 
 In short I learned about: surrealdb, surrealQL, sql
+
+### linux distributions
+> When I was younger I used MacOS because my father gave me his old laptop. Being a young child I wanted to play games on that laptop. Unfortunately this really wasn't possible on mac. I eventually ended up switching to windows once I received my current PC. Sadly over a few years of use and an evergrowing interest in tech my dislike for windows keept increasing. Searching for an alternative I stumbled upon linux.
+> My first distribution was arch linux. In my attempt to learn the fundamentals of linux I chose to build my linux system 'from the ground up'. This ofcourse was not the only reason as the arch wiki and AUR were extremely attractive features. Although I first struggled with the installation I eventually became somewhat proficient in the installation process. After a few months of sparce usage I kept running into package version conflicts, nvidia driver issues and all sorts of trouble. And as such I moved to nixos.
+> I am now using NixOS. The reason I switched was primarly due to stability issues on arch. I have recently been exploring the various linux communities. On my quest for a new linux distro I came across NixOS. NixOS promised incredible stability along with a large package repo. NixOS is configured using .nix files which use the nix language. Although I will not into great detail here one thing to note is that the nix compiler provides horrible error messages. The rest of NixOS is incredebly appealing.
+
+In short I learned about: linux, linux file system, disk partitioning, locale, nixos, nix, nix-shell
